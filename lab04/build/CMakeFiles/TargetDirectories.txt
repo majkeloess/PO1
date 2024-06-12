@@ -1,0 +1,3 @@
+/home/majkeloess/Downloads/lab04/build/CMakeFiles/Figura.dir
+/home/majkeloess/Downloads/lab04/build/CMakeFiles/edit_cache.dir
+/home/majkeloess/Downloads/lab04/build/CMakeFiles/rebuild_cache.dir

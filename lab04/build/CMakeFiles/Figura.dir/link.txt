@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Figura.dir/Main.cpp.o CMakeFiles/Figura.dir/src/Figura.cpp.o CMakeFiles/Figura.dir/src/Kolo.cpp.o CMakeFiles/Figura.dir/src/Kwadrat.cpp.o CMakeFiles/Figura.dir/src/Prostokat.cpp.o CMakeFiles/Figura.dir/src/Trojkat.cpp.o -o Figura 
