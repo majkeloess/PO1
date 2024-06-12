@@ -1,6 +1,6 @@
 # Laboratoria z przedmiotu Programowanie Obiektowe 1
 
-Moje rozwiązania laboratoriów z Programowania Obiektowego w języku C++. Poniżej załączone są treści, które są odpowiednio `Main.cpp` dla każdego z laboratoriów. 
+Rozwiązania laboratoriów z Programowania Obiektowego w języku C++. Poniżej załączone są treści, które są odpowiednio `Main.cpp` dla każdego z laboratoriów. 
 Maina nie wolno było edytować trzeba było dopisać odpowiednie pliki `.h` i `.cpp` oraz odpowiadające im klasy oraz funkcje.
 
 W trakcie semestru przećwiczono:
@@ -14,6 +14,7 @@ W trakcie semestru przećwiczono:
 7. Kontenery (std::vector, std:: array, iteratory)
 8. Wyjątki 
 
+Foldery z odpowiadających im laboratoriów zawierają moje rozwiązania. Czasem brakowało czasu więc do wszystkich laboratoriów nie ma dokumentacji. 
 
 ## LAB01
 
