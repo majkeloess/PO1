@@ -1,5 +1,20 @@
 # Laboratoria z przedmiotu Programowanie Obiektowe 1
 
+Moje rozwiązania laboratoriów z Programowania Obiektowego w języku C++. Poniżej załączone są treści, które są odpowiednio `Main.cpp` dla każdego z laboratoriów. 
+Maina nie wolno było edytować trzeba było dopisać odpowiednie pliki `.h` i `.cpp` oraz odpowiadające im klasy oraz funkcje.
+
+W trakcie semestru przećwiczono:
+
+1. Przeładowania operatorów
+2. Dziedziczenie (zwykłe, wirtualne, wielokrotne)
+3. Funkcje wirtualne (polimorfizm, klasy abstrakcyjne)
+4. STL
+5. Wyrażenia Lambda
+6. Szablony
+7. Kontenery (std::vector, std:: array, iteratory)
+8. Wyjątki 
+
+
 ## LAB01
 
 ```cpp
